@@ -1,1 +1,0 @@
-# hapi-fhir-playground-basic
